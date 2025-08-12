@@ -39,9 +39,6 @@ And some more advanced additions:
 <li>There are shoelaces in skates and rollerblades</li>
 </ul>
 
-</div>
-
-
 </details>
 
 
