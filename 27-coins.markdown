@@ -24,7 +24,9 @@ When ansering these types of questions, sometimes there are hints in the numbers
 CLICK TO REVEAL
 </summary>
 
-Solution: 3
+**Solution: 3**
+
+In each step you will weigh one third of the coins against one third of the coins while one third remains off the scale. If the left is heavier keep the left coins, if the right is heavier keep the right coins, if they are equal keep the coins not on the scale. 
 
 1) Put 9 each on each side of balance and eliminate two sets; remaining 9
 2) Put 3 each on each side of balance and eliminate the two sets; remaining 3
