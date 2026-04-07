@@ -29,5 +29,3 @@ Four people (A, B, C, and D) must cross a narrow bridge at night as fast as poss
 **The Trick:** You must send the two slowest people (C & D) together so their times overlap, but neither of them should be the one to bring the torch back!
 
 </details>
-
-Would you like me to create a similar "click-to-reveal" file for Einstein's Zebra Puzzle?
