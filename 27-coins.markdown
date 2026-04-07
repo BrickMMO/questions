@@ -10,7 +10,7 @@ The point of this question is **NOT** to provide a number. The point is to obser
 
 ### What is the minimum number of weighing required to certainly find the heavier coin?
 
-[27 Coins](images/27-coins.png)
+![27 Coins](images/27-coins.png)
 
 ## Solution
 
