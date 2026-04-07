@@ -34,7 +34,6 @@ These questions are collected from books like [Are you Smart Enough to Work at G
 - [Coins for Change](/change)
 - [Integers](/integers)
 
-> [!NOTE]  
 > For more interview questions check out [Geeks for Geeks](https://www.geeksforgeeks.org/aptitude/top-100-puzzles-asked-in-interviews/)
 
 <div class="components" id="resources">--resources--</div>
