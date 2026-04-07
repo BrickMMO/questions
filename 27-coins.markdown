@@ -4,13 +4,17 @@
 
 ## 27 Coins
 
-The point of this question is **NOT** to provide a number. The point is to observe the process the interviewee takes to approximate a response. The interviewee will provide factors that need to be considered if they were to calculate an actual numeric response.
-
 ### There are 27 coins. All coins has same weight except one is heavier. All coins looks identical. 
 
 ### What is the minimum number of weighing required to certainly find the heavier coin?
 
 ![27 Coins](images/27-coins.png)
+
+The point of this question is find an answer that will work everytime. The answer will not reply on accidentally guessing the right coin.
+
+## Hints
+
+When ansering these types of questions, sometimes there are hints in the numbers. Ask youself, why did the question use this number? 
 
 ## Solution
 
@@ -20,14 +24,19 @@ The point of this question is **NOT** to provide a number. The point is to obser
 CLICK TO REVEAL
 </summary>
 
-Answer...
+**Solution: 3**
+
+In each step you will weigh one third of the coins against one third of the coins while one third remains off the scale. If the left is heavier keep the left coins, if the right is heavier keep the right coins, if they are equal keep the coins not on the scale. 
+
+1) Put 9 each on each side of balance and eliminate two sets; remaining 9
+2) Put 3 each on each side of balance and eliminate the two sets; remaining 3
+3) Put 1 each on each side of balance and eliminate the two; remaining 1
 
 </details>
 
-
 ## Notes
 
-When ansering these types of questions, sometimes there are hints in the numbers. Ask youself, why did the question use this number?
+Many of these types of questions require you to look for information in **silence**. For example, with this question, you can weigh nine coins against nine coins and still learn something about the nine coins not on the scale.
 
 ---
 
