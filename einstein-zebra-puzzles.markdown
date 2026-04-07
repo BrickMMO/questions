@@ -5,6 +5,8 @@
 ## Einstein’s Zebra Puzzle
 
 There are 5 houses in a row, each with a different color. In each house lives a person of a different nationality. Each person drinks a different drink, smokes a different brand of cigarette, and keeps a different pet.
+
+![einstein-zebra-puzzle](images/einstein-zebra-puzzles.png)
 ## Clues:
 
 1. The Brit lives in the red house.
