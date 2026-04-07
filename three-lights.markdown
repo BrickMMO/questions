@@ -10,7 +10,7 @@ The point of this question is to show how candidates think through the question.
 
 ### How can you definitively tell which switch is connected to each of the light bulb?
 
-![Three Lights](images/lightbulb.webp)
+<img src="images/lightbulb.png" alt="Three Lights" width="600">
 
 ## Solution
 
