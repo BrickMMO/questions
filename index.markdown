@@ -10,15 +10,15 @@ These questions are collected from books like [Are you Smart Enough to Work at G
 
 - [Shoelaces](/shoelaces)
 - [27 Coins](/27-coins)
-- [Einstein’s Zebra Puzzles](/einstein-zebra-puzzles)
+- [Einstein’s Zebra Puzzles](/einstein-zebra)
 - [Melting Candle](/melting-candle)
 - [Water Jugs Candle](/water-jugs)
 - [Three Lights](/three-lights)
+- [Rickety Bridge](/rickety-brideg)
 
 
 ## Questions in Progress
 
-- [27 Coins](/coins)
 - [Hourglass](/hourglass)
 - [Chairlift](/chairlift)
 - [Analog Clock](/analog)
