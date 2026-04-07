@@ -40,8 +40,6 @@ This is a logic grid puzzle. You need to systematically deduce house-by-house us
 <h2>Answer:<h2>
 <h2> The German owns the fish.</h2>
 </details>
-
-
 ---
 
 <a href="https://codeadam.ca">
