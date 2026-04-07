@@ -14,7 +14,7 @@ These questions are collected from books like [Are you Smart Enough to Work at G
 - [Melting Candle](/melting-candle)
 - [Water Jugs Candle](/water-jugs)
 - [Three Lights](/three-lights)
-- [Rickety Bridge](/rickety-brideg)
+- [Rickety Bridge](/rickety-bridge)
 
 
 ## Questions in Progress
