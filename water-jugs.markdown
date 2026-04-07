@@ -3,7 +3,9 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
 ## The Water Jug Puzzle
- ![Water Jugs](images/juggs.png)
+
+![Water Jugs](images/juggs.png)
+
 ### You have a 3-gallon jug and a 5-gallon jug. You have access to as much water as you need. How do you measure out exactly 4 gallons?
 
 ## Solution
