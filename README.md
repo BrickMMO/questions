@@ -8,7 +8,7 @@ A collection of interview questions.
 > This repo is available to view at  
 > [https://questions.codeadam.ca](https://questions.codeadam.ca)
 
-## Contributong
+## Contributing
 
 If you are contributing to these quesstions follow these steps:
 
