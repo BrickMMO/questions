@@ -10,6 +10,8 @@ These questions are collected from books like [Are you Smart Enough to Work at G
 
 - [Shoelaces](/shoelaces)
 - [27 Coins](/27-coins)
+- [Three Lights](/three-lights.markdown)
+  
 
 ## Questions in Progress
 
