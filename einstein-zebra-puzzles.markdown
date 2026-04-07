@@ -37,13 +37,9 @@ CLICK TO REVEAL
 
 This is a logic grid puzzle. You need to systematically deduce house-by-house using the clues. Step-by-step reasoning fills in a table with color, nationality, drink, cigarette, pet.
 
-## Answer:
-
-### The German owns the fish.
-
+<h2>Answer:<h2>
+<h2> The German owns the fish.</h2>
 </details>
-
-
 ---
 
 <a href="https://codeadam.ca">
