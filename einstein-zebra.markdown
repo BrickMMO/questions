@@ -6,8 +6,9 @@
 
 There are 5 houses in a row, each with a different color. In each house lives a person of a different nationality. Each person drinks a different drink, smokes a different brand of cigarette, and keeps a different pet.
 
-![einstein-zebra-puzzle](images/einstein-zebra-puzzles.png)
-## Clues:
+![einstein-zebra-puzzle](images/einstein-zebra.png)
+
+Using the details below, determine **Who Owns the Fish**?
 
 1. The Brit lives in the red house.
 2. The Swede keeps dogs as pets.
@@ -25,7 +26,9 @@ There are 5 houses in a row, each with a different color. In each house lives a 
 14. The Norwegian lives next to the blue house.
 15. The man who smokes Blends has a neighbor who drinks water.
 
-### Who Owns the fish?
+## Hints
+
+This is a logic grid puzzle. You need to systematically deduce house-by-house using the clues. Step-by-step reasoning fills in a table with color, nationality, drink, cigarette, pet.
 
 ## Solution
 
@@ -35,11 +38,10 @@ There are 5 houses in a row, each with a different color. In each house lives a 
 CLICK TO REVEAL
 </summary>
 
-This is a logic grid puzzle. You need to systematically deduce house-by-house using the clues. Step-by-step reasoning fills in a table with color, nationality, drink, cigarette, pet.
+<h2>Answer: The German Owns the Fish</h2>
 
-<h2>Answer:<h2>
-<h2> The German owns the fish.</h2>
 </details>
+
 ---
 
 <a href="https://codeadam.ca">

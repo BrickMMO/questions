@@ -16,7 +16,6 @@ These questions are collected from books like [Are you Smart Enough to Work at G
 - [Three Lights](/three-lights)
 - [Rickety Bridge](/rickety-bridge)
 
-
 ## Questions in Progress
 
 - [Hourglass](/hourglass)
@@ -34,7 +33,9 @@ These questions are collected from books like [Are you Smart Enough to Work at G
 - [Traffic Woes](/traffic)
 - [Coins for Change](/change)
 - [Integers](/integers)
-- [Rickety Bridge](/bridge)
+
+> [!NOTE]  
+> For more interview questions check out [Geeks for Geeks](https://www.geeksforgeeks.org/aptitude/top-100-puzzles-asked-in-interviews/)
 
 <div class="components" id="resources">--resources--</div>
 <script src="https://cdn.codeadam.ca/components@1.0.0/components.js"></script>
