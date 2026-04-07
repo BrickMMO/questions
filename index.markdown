@@ -11,6 +11,8 @@ These questions are collected from books like [Are you Smart Enough to Work at G
 - [Shoelaces](/shoelaces)
 - [27 Coins](/27-coins)
 - [Einstein’s Zebra Puzzles](/einstein-zebra-puzzles)
+- [melting candle](/melting-candle)
+
 
 ## Questions in Progress
 
